@@ -71,6 +71,7 @@ _____________|','   ///_/-------------/   |
   <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=black&style=for-the-badge" height="40" alt="argocd logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge" height="40" alt="vagrant logo"  />
   <img width="12" />
@@ -80,7 +81,7 @@ _____________|','   ///_/-------------/   |
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
+
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
